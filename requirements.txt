@@ -1,0 +1,11 @@
+TODO:
+- Graphql fetchmore API 
+- Graphql updateQuery
+- Change from upcoming to past.
+- Slow Loading
+- Show detailed view for each launch
+- improve the design on failed vs successful launches and the filter
+
+
+link to graphql 
+https://studio.apollographql.com/public/SpaceX-pxxbxen/home?variant=current

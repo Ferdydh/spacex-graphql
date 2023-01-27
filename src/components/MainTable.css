@@ -1,0 +1,11 @@
+:where(.css-dev-only-do-not-override-1n7nwfa).ant-table-wrapper td.ant-table-column-sort {
+  background-color: transparent;
+}
+
+:where(.css-dev-only-do-not-override-1n7nwfa).ant-table-wrapper .ant-table-thead th.ant-table-column-sort {
+  background-color: #fafafa;
+}
+
+.noBefore::before {
+  display:none;
+}
